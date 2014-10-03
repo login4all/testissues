@@ -8,10 +8,7 @@ Atom COS studio 0.5.0  package
 * Web Terminal for better experience [https://github.com/intersystems-ru/webterminal](https://github.com/intersystems-ru/webterminal) project [page](http://intersystems-ru.github.io/webterminal)
 * import **for_atom.xml** in *NameSpaceForAtomStudio*
 * run in Cache terminal or Web Terminal this commands
-```
-zn "NameSpaceForAtomStudio"
-do ##class(MDG.Request).CreateBroker("/mdg-dev")
-```
+
   * it will create web app for WEB.Broker and temporary directory *c:\temp* (you can change it later in Atom-stuio interface)
 * clone this repo in *c:\users\%username%\.atom\packages*
 ## in Atom
