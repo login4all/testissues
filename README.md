@@ -1,7 +1,6 @@
-Atom - studio 0.1.1  package
+Atom COS studio 0.5.0  package
 ==============
-**[english]** | **[russian]**
-Take me to [pookie](#pookie)
+**[Русский](#rulink)**
 
 # Before you start.
 * Download and install:
@@ -36,9 +35,7 @@ do ##class(MDG.Request).CreateBroker("/mdg-dev")
 * ctrl-alt-a save all project, use it after update from git repository
 
 
-### <a name="pookie"></a>Some heading
-
-# Русский | Russian [](#rulink)
+# <a name="rulink"></a>Русский | Russian
 * Скачайте последний Атом https://github.com/atom/atom/releases для Вашей операционной системы
 * Для запуска студии в Атоме предварительно экспортируйте for_atom.xml в произвольную область Cache и скомпилируйте
 * В терминале выполните do ##class(MDG.Request).CreateBroker("/mdg-dev") или самостоятельно создайте брокер /mdg-dev
